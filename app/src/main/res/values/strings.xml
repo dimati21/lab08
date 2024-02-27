@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab08</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="item_new">New</string>
+    <string name="item_save">Save</string>
+    <string name="item_delete">Delete</string>
+</resources>
